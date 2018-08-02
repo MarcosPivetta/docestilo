@@ -1,0 +1,2 @@
+[30-Jul-2018 19:30:37 UTC] PHP Warning:  require_once(/home1/docestil/public_html/system/startup.php): failed to open stream: No such file or directory in /home1/docestil/public_html/install/index.php on line 35
+[30-Jul-2018 19:30:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/docestil/public_html/system/startup.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home1/docestil/public_html/install/index.php on line 35
